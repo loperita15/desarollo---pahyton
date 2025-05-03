@@ -18,3 +18,4 @@ numero_2=int(input("ingresa el segundo numero:"))
 resultado =numero_1 + numero_2print("el resultado de la suma es:", resultado)
 
 
+
